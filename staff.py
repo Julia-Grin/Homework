@@ -11,3 +11,8 @@ print(post_2, salary_2)
 bonus = 500
 totall = salary_2 + bonus
 print(totall)
+
+post_3 = 'manager'
+salary_3 = 1200
+
+print(post_3, salary_3)
