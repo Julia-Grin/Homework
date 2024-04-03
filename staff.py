@@ -7,3 +7,7 @@ post_2 = 'deputy_director'
 salary_2 = 1700
 
 print(post_2, salary_2)
+
+bonus = 500
+totall = salary_2 + bonus
+print(totall)
